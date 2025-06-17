@@ -1,1 +1,3 @@
-
+Flask的Web搭建
+前端文件存放于 static templates两个文件夹中
+后端依赖app.py，其中调用的函数来自于utils
